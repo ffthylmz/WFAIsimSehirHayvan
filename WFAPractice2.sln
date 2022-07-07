@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAPractice2", "WFAPractice2\WFAPractice2.csproj", "{179B1F15-04F2-487C-B094-27737BF6B8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179B1F15-04F2-487C-B094-27737BF6B8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179B1F15-04F2-487C-B094-27737BF6B8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179B1F15-04F2-487C-B094-27737BF6B8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179B1F15-04F2-487C-B094-27737BF6B8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B7CFB9-95C1-49AB-B920-54B9807645CE}
+	EndGlobalSection
+EndGlobal
